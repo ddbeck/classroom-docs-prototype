@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.warning {
+  @extend .border;
+  @extend .bg-yellow-light;
+  @extend .p-3;
+}
