@@ -1,5 +1,5 @@
 ---
-title: "Probot Settings app"
+title: "Controlling assignment repo settings with the Probot Settings app"
 ---
 
 ## Controlling assignment repo settings with the Probot Settings app
